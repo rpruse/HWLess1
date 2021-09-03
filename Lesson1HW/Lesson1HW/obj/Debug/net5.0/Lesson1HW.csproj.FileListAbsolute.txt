@@ -1,0 +1,16 @@
+E:\Users\Janis\Desktop\C#PROGAM\Lesson1 homework\Lesson1HW\Lesson1HW\bin\Debug\net5.0\Lesson1HW.exe
+E:\Users\Janis\Desktop\C#PROGAM\Lesson1 homework\Lesson1HW\Lesson1HW\bin\Debug\net5.0\Lesson1HW.deps.json
+E:\Users\Janis\Desktop\C#PROGAM\Lesson1 homework\Lesson1HW\Lesson1HW\bin\Debug\net5.0\Lesson1HW.runtimeconfig.json
+E:\Users\Janis\Desktop\C#PROGAM\Lesson1 homework\Lesson1HW\Lesson1HW\bin\Debug\net5.0\Lesson1HW.runtimeconfig.dev.json
+E:\Users\Janis\Desktop\C#PROGAM\Lesson1 homework\Lesson1HW\Lesson1HW\bin\Debug\net5.0\Lesson1HW.dll
+E:\Users\Janis\Desktop\C#PROGAM\Lesson1 homework\Lesson1HW\Lesson1HW\bin\Debug\net5.0\ref\Lesson1HW.dll
+E:\Users\Janis\Desktop\C#PROGAM\Lesson1 homework\Lesson1HW\Lesson1HW\bin\Debug\net5.0\Lesson1HW.pdb
+E:\Users\Janis\Desktop\C#PROGAM\Lesson1 homework\Lesson1HW\Lesson1HW\obj\Debug\net5.0\Lesson1HW.csproj.AssemblyReference.cache
+E:\Users\Janis\Desktop\C#PROGAM\Lesson1 homework\Lesson1HW\Lesson1HW\obj\Debug\net5.0\Lesson1HW.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Janis\Desktop\C#PROGAM\Lesson1 homework\Lesson1HW\Lesson1HW\obj\Debug\net5.0\Lesson1HW.AssemblyInfoInputs.cache
+E:\Users\Janis\Desktop\C#PROGAM\Lesson1 homework\Lesson1HW\Lesson1HW\obj\Debug\net5.0\Lesson1HW.AssemblyInfo.cs
+E:\Users\Janis\Desktop\C#PROGAM\Lesson1 homework\Lesson1HW\Lesson1HW\obj\Debug\net5.0\Lesson1HW.csproj.CoreCompileInputs.cache
+E:\Users\Janis\Desktop\C#PROGAM\Lesson1 homework\Lesson1HW\Lesson1HW\obj\Debug\net5.0\Lesson1HW.dll
+E:\Users\Janis\Desktop\C#PROGAM\Lesson1 homework\Lesson1HW\Lesson1HW\obj\Debug\net5.0\ref\Lesson1HW.dll
+E:\Users\Janis\Desktop\C#PROGAM\Lesson1 homework\Lesson1HW\Lesson1HW\obj\Debug\net5.0\Lesson1HW.pdb
+E:\Users\Janis\Desktop\C#PROGAM\Lesson1 homework\Lesson1HW\Lesson1HW\obj\Debug\net5.0\Lesson1HW.genruntimeconfig.cache
